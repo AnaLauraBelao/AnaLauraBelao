@@ -17,4 +17,4 @@
   <img align="center" alt="Cris-Laravel" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
 
-![Snake animation](https://github.com/JuniorCristian/JuniorCristian/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AnaLauraBelao/AnaLauraBelao/blob/output/github-contribution-grid-snake.svg)
